@@ -1,0 +1,10 @@
+*.log
+*.svf
+*.bin
+*.elf
+*.o
+top-post-route.json
+top.config
+top.json
+syn.ys
+
